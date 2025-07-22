@@ -5,7 +5,7 @@ mkdir -p utils/speedtest logs
 # دانلود و آماده‌سازی فایل‌ها
 wget -O utils/speedtest/lite-linux-amd64.gz https://github.com/xxf098/LiteSpeedTest/releases/download/v0.14.1/lite-linux-amd64-v0.14.1.gz
 gzip -d utils/speedtest/lite-linux-amd64.gz
-wget -O utils/speedtest/lite_config.json https://raw.githubusercontent.com/tahmaseb73/Iran_Config_Collector/main/utils/speedtest/lite_config.json
+wget -O utils/speedtest/lite_config.json https://raw.githubusercontent.com/tinde29/Config_Collector/main/utils/speedtest/lite_config.json
 
 # اجرای LiteSpeedTest با محدودیت زمانی
 chmod +x utils/speedtest/lite-linux-amd64
