@@ -1,4 +1,4 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://xxoo@138.197.5.103:443?encryption=none&security=tls&sni=us.blazeppn.info&type=raw&headertype=none#%F0%9F%87%BA%F0%9F%87%B8US+-%3E+%F0%9F%87%BA%F0%9F%87%B8US+%E2%9A%A1@DeamNet_Proxy
 trojan://NISHIKUITAN111@104.18.113.114:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.24.133.61:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://dc15d997-8b26-4294-870e-c90a5784dca4@naiu-jp.05vr9nyqg5.download:13011?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
@@ -41,6 +41,7 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?type=tcp&securit
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#Mtn-%40V2ray_Raha-6
 trojan://telegram-id-directvpn@35.157.70.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&type=tcp&headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://telegram-id-directvpn@18.153.112.53:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40flyv2ray
 trojan://telegram-id-directvpn@63.178.189.136:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40flyv2ray
@@ -66,7 +67,6 @@ trojan://NISHIKUITAN111@104.20.6.219:443?allowInsecure=0#@Hope_Net-join-us-on-Te
 trojan://NISHIKUITAN111@94.242.228.50:443?allowInsecure=0#@Hope_Net-join-us-on-Telegram
 trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#@V2rayNG3
-trojan://xxoo@138.197.5.103:443?encryption=none&security=tls&sni=us.blazeppn.info&type=raw&headertype=none#%F0%9F%87%BA%F0%9F%87%B8US+-%3E+%F0%9F%87%BA%F0%9F%87%B8US+%E2%9A%A1@DeamNet_Proxy
 trojan://Aimer@103.116.7.133:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epmk.ambercc.filegear-sg.me&type=ws&sni=epmk.ambercc.filegear-sg.me#%F0%9F%92%AFT.me%2FAsak_Vpn%F0%9F%92
 trojan://telegram-id-directvpn@13.36.14.125:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40flyv2ray
 trojan://telegram-id-directvpn@13.36.93.101:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%40flyv2ray
